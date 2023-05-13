@@ -1,9 +1,8 @@
 [
   {
-    "name": "index",
-    "path": "/",
-    "component": "/Users/xuanna/Downloads/review_service/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_1ac57b94"
+    "name": "",
+    "path": "",
+    "component": "/Users/xuanna/Downloads/review_service/node_modules/@nuxt/vue-app/template/pages/index.vue",
+    "_name": "_c6366576"
   }
 ]

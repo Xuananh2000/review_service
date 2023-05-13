@@ -1,3 +1,5 @@
+import routes from './router';
+
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
@@ -23,6 +25,12 @@ export default {
   css: [
     'element-ui/lib/theme-chalk/index.css'
   ],
+
+  // Vue Router
+  router: {
+    routes,
+  },
+
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
